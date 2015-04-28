@@ -4,24 +4,24 @@ header {
   text-align: center;
   line-height: 200px;
   font-size: 40px;
-
 }
 
 body {
   line-height: 2;
+  background: #97c23b;
 }
 
 .display {
-  color: #ce1cd8;
-  background: #0e58a9;
+  color: #165966;
+  background: #d6ef75;
   width: 500px;
   float: right;
   margin-right: 50px;
 }
 
 .positioning {
-  color:#5550a9;
-  background:#eef080;
+  color:#0f6fd5;
+  background:#82c6f3;
   width:500px;
   float: left;
   margin-left: 50px;
